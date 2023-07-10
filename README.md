@@ -1,7 +1,9 @@
 ### Hi there 👋
-I like to make things easier and better for developers, among other things 🧠🤖💥 :)
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+I am currently immersing myself in the fascinating world of generative artificial intelligence, specifically focusing on LLM MLOPs and LangChain to develop intelligent agents. Additionally, I'm exploring MOJO techniques to enhance the capabilities of these agents
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tzoght/)
+
 
 <!--
 **tzoght/tzoght** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -22,7 +22,6 @@ graph LR
 * Managed release processes and product launches, ensuring smooth deployments and timely deliveries.
 * Leveraged cloud platforms and effectively deployed and orchestrated containers using Docker and Kubernetes, enabling scalable and resilient infrastructure.
 * Actively contributed to the telecom and network management landscapes by providing innovative features and enhancements, improving the functionality and efficiency of messaging platforms, ultimately benefiting telecom customers and end-users.
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tzoght/)
 
 ---
 <br>

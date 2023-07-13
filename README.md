@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tzoght" />
   </a>
   <a href="https://github.com/tzoght">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tzoght&hide_border=true&card_width=338" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tzoght&hide_border=true&card_width=356" />
   </a>
   <a href="https://github.com/tzoght">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tzoght" />

@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-I'm a seasoned professional with more than two decades of experience in leading software development projects and shaping technical visions. I've had the pleasure of working with a wide range of entities, from agile startups to large corporations, where I've successfully scaled teams and delivered innovative solutions. Recently, I completed a master's degree in Machine Learning and Data Science, which has fueled my excitement for combining cloud services and AI to help businesses stay ahead of the curve and unlock the incredible potential of technology
+I'm a seasoned professional with more than two decades of experience in leading software development projects and shaping technical visions. I've had the pleasure of working with a wide range of entities, from agile startups to large corporations, where I've successfully scaled teams and delivered innovative solutions. Recently, I completed a master's degree in Machine Learning and Data Science, which has fueled my excitement for combining cloud services and AI to help businesses stay ahead of the curve and unlock the incredible potential of technology.
+
 
 ### Currently 
-I am deeply engrossed in the captivating realm of generative artificial intelligence. My current endeavors revolve around delving into LLM MLOPs and LangChain, aiming to craft intelligent agents and robots that amplify the potential of AI to enhance human experiences. It's an exciting journey as I explore innovative ways to leverage these technologies and empower individuals to maximize the benefits of AI.
+My present work involves looking into LLM MLOPs and LangChain, with the goal of making smart agents and robots that increase the ability of AI to make people's lives better. It's an exciting journey as I look for new ways to use these technologies and give people the tools they need to get the most out of AI. 
+
+When I have time I am diving into LLMs, specifically the Tranformer architecture
+* Finished the first version of: Yet another Transfromer implementation from scratch: https://www.kaggle.com/code/tzoght/transformerfromscratch/notebook
+* Wroking on [fundaml](https://pypi.org/project/fundaml/) adding all the frequently used tools as ML engineer.
 
 ```mermaid
 graph LR

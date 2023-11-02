@@ -17,6 +17,9 @@ When I have time I am diving into LLMs, specifically the Tranformer architecture
 * Leveraged cloud platforms and effectively deployed and orchestrated containers using Docker and Kubernetes, enabling scalable and resilient infrastructure.
 * Actively contributed to the telecom and network management landscapes by providing innovative features and enhancements, improving the functionality and efficiency of messaging platforms, ultimately benefiting telecom customers and end-users.
 
+### Patent Work
+[Message delivery system and method with queue notification](https://patents.google.com/patent/US9426115B1/en?inventor=Tony+Zoght)
+[Application aware backups](https://patents.google.com/patent/US11720448B1/en?inventor=Tony+Zoght)
 ---
 <br>
 <br>

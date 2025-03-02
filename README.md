@@ -6,20 +6,13 @@ I'm a seasoned professional with more than two decades of experience in leading 
 ### My Hobbies
 My current tinkering work involves looking into LLM MLOPs and LangChain, with the goal of making smart agents and robots that increase the ability of AI to make people's lives better. It's an exciting journey as I look for new ways to use these technologies and give people the tools they need to get the most out of AI. 
 
-When I have time I am diving into LLMs, specifically the Tranformer architecture
+When I have time I am diving into LLMs, specifically the Tranformer and Titans architecture
 * Finished the first version of: Yet another Transfromer implementation from scratch: https://www.kaggle.com/code/tzoght/transformerfromscratch/notebook
 * Wroking on [fundaml](https://pypi.org/project/fundaml/) adding all the frequently used tools as ML engineer.
 
-### Previously ... [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tzoght/)
-* Demonstrated engineering leadership and operational excellence in diverse software development projects, utilizing a wide range of skills including Linux, C, C++, Java, C#, JavaScript, Python, and GoLang.
-* Advocated for and implemented Agile software development methodologies, ensuring efficient and collaborative workflows at scale. Successfully integrated DevOps practices to streamline development processes.
-* Managed release processes and product launches, ensuring smooth deployments and timely deliveries.
-* Leveraged cloud platforms and effectively deployed and orchestrated containers using Docker and Kubernetes, enabling scalable and resilient infrastructure.
-* Actively contributed to the telecom and network management landscapes by providing innovative features and enhancements, improving the functionality and efficiency of messaging platforms, ultimately benefiting telecom customers and end-users.
 
 ### Patent Work
 * [Message delivery system and method with queue notification](https://patents.google.com/patent/US9426115B1/en?inventor=Tony+Zoght)
-
 * [Application aware backups](https://patents.google.com/patent/US11720448B1/en?inventor=Tony+Zoght)
 
 ---

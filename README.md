@@ -3,12 +3,11 @@
 I'm a seasoned professional with more than two decades of experience in leading software development projects and shaping technical visions. I've had the pleasure of working with a wide range of entities, from agile startups to large corporations, where I've successfully scaled teams and delivered innovative solutions. Recently, I completed a master's degree in Machine Learning and Data Science, which has fueled my excitement for combining cloud services and AI to help businesses stay ahead of the curve and unlock the incredible potential of technology.
 
 
-### My Hobbies
-My current tinkering work involves looking into LLM MLOPs and LangChain, with the goal of making smart agents and robots that increase the ability of AI to make people's lives better. It's an exciting journey as I look for new ways to use these technologies and give people the tools they need to get the most out of AI. 
-
+### My Tech Hobbies
 When I have time I am diving into LLMs, specifically the Tranformer and Titans architecture
 * Finished the first version of: Yet another Transfromer implementation from scratch: https://www.kaggle.com/code/tzoght/transformerfromscratch/notebook
 * Wroking on [fundaml](https://pypi.org/project/fundaml/) adding all the frequently used tools as ML engineer.
+* Working on building on top of  [AgentSkills](https://github.com/agentskills/agentskills)
 
 
 ### Patent Work
